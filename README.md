@@ -1,3 +1,3 @@
 # verkefni6gud.github.io
-[verkefni 6 index](index.html)
-[verkefni 6 myndir](myndir.html)
+[verkefni6](index.html)
+[verkefni6 myndir](myndir.html)
